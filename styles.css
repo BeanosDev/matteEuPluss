@@ -1,0 +1,21 @@
+body {
+    color: white !important;
+    background-color: rgb(36, 36, 36) !important;
+    /* background: url('https://media3.giphy.com/media/2tNvsKkc0qFdNhJmKk/giphy.gif?cid=ecf05e474u486xla18xo80tg0e71nhjwcdqrgaparfx9v89d&rid=giphy.gif&ct=g'); */
+    font-family: cursive !important;
+}
+
+a {
+    color: rgb(148, 148, 148) !important;
+    font-size: 14px !important;
+}
+
+td:hover, a:hover {
+    color: rgb(120, 120, 255) !important;
+    cursor: pointer !important;
+}
+
+#statusOppgavenummer {
+    background-color: rgb(50, 50, 50) !important;
+    font-size: 16px !important;
+}
